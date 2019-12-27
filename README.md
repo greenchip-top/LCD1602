@@ -66,8 +66,8 @@ The connection diagram of 1602 directly communicated with Arduino is divided int
 
 Four-bit connection
 
-![image](https://github.com/greenchip-top/LCD1602/master/image/4.png?raw=true)
+![image](https://github.com/greenchip-top/LCD1602/raw/master/image/4.png?raw=true)
 
 Eight-bit connection
 
-![image](https://github.com/greenchip-top/LCD1602/master/image/8.png?raw=true)
+![image](https://github.com/greenchip-top/LCD1602/raw/master/image/8.png?raw=true)
