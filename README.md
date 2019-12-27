@@ -51,9 +51,13 @@ BLA is backlight positive, BLK is backlight negative;
 #### **Hardware Related**
 
 Need equipment
+
 Arduino UNO control board: 1
+
 1602 LCD display: 1
+
 Breadboard: 1
+
 Breadboard jumper: several
 
 #### **Connection Diagram**
